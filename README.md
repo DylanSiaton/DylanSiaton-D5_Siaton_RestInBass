@@ -18,8 +18,6 @@
 | `1_Touchpoint/print/glasses_home_print_A4.pdf` | Same glasses sheets for home printing | Post (prototype) | 2 × A4, RGB |
 | `1_Touchpoint/invitation_front_preview.png` | Preview of the invitation front | – | PNG |
 | `1_Touchpoint/invitation_back_preview.png` | Preview of the invitation back | – | PNG |
-| `1_Touchpoint/tests/glasses_test_sheet_1.pdf` | Test sheet 1: which red and cyan ink vanish through my glasses, how much 3D offset, hidden-message strength | Test material | 2 × A4 |
-| `1_Touchpoint/tests/glasses_test_sheet_2.pdf` | Test sheet 2: hidden message and 3D offset with my chosen inks | Test material | 2 × A4 |
 | `1_Touchpoint/photos/` | Photos of the printed invitation and the assembled glasses | – | JPG *(to add after printing)* |
 
 **Values from my own paper test (test sheets 1 and 2):** red #FF5A5A (R4), cyan #00FFFF (C1); 3D offset 1.0 mm for the logo, 0.8 mm for body text; red lens on the left eye.
