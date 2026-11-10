@@ -26,10 +26,13 @@ The touchpoint is physical, so this folder holds its plans (the print files abov
 
 | File | What it is | Channel | Spec |
 |---|---|---|---|
-| `2_Campaign/teaser_stills.png` | Eight stills from the teaser video | – | PNG |
-| *Key visual* | *(add my key visual file)* | Poster / social | *(spec)* |
-| *Launch asset* | *(to add)* | *(channel)* | *(spec)* |
-| *During asset* | *(to add)* | *(channel)* | *(spec)* |
+| `2_Campaign/key_visual.png` | Key visual with its line "turn up the feeling" (my Les 9 design, logo in red/cyan 3D, QR to the teaser) | Invitation front, poster, social | 2400 × 1321 px, PNG, RGB |
+| `2_Campaign/teaser_stills.png` | **Teaser** asset: eight stills from the teaser video (video on Canvas) | YouTube Shorts / Instagram Reels | PNG |
+| `2_Campaign/launch_instagram_post.png` | **Launch** asset: announcement post with the date and venue | Instagram feed | 1080 × 1350 px (4:5), PNG, RGB |
+| `2_Campaign/launch_mockup_phone.png` | Launch post in context, in a phone feed | – | Mock-up, 2000 × 2000 px, PNG |
+| `2_Campaign/during_mockup_entrance_screen.png` | **During** asset in context: the motion piece looping on a vertical screen at the entrance of Tour & Taxis | Screen at the venue | Mock-up, 2400 × 1600 px, PNG · the screen plays `D5_Siaton_motion.mp4` |
+
+**Channels, together with the core touchpoint:** post (invitation + collectible glasses, non-conventional), YouTube Shorts / Instagram Reels (teaser), Instagram feed (launch), screen at the venue (during).
 
 ## 3_Motion
 
