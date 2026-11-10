@@ -20,8 +20,6 @@
 | `1_Touchpoint/invitation_back_preview.png` | Preview of the invitation back | – | PNG |
 | `1_Touchpoint/photos/` | Photos of the printed invitation and the assembled glasses | – | JPG *(to add after printing)* |
 
-**Values from my own paper test (test sheets 1 and 2):** red #FF5A5A (R4), cyan #00FFFF (C1); 3D offset 1.0 mm for the logo, 0.8 mm for body text; red lens on the left eye.
-
 The touchpoint is physical, so this folder holds its plans (the print files above) and photos of the printed prototype.
 
 ## 2_Campaign
