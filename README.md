@@ -51,8 +51,7 @@ The touchpoint is physical, so this folder holds its plans (the print files abov
 | `D5_Siaton_motion.mp4` | Motion piece: the logo locks together on three bass hits, then "Turn Up the Feeling" | Instagram story / screen loop at the venue | 1080 × 1920 px, 10 s, MP4 |
 | `D5_Siaton_teaser.mp4` | Teaser video, opened from the QR code on the invitation | YouTube Shorts / Instagram Reels | 1080 × 1920 px, 20 s, 30 fps, MP4 · *(YouTube link)* |
 
-## Credits and AI
+## Credits
 
 - **Typeface:** Inter (SIL Open Font License) as a stand-in for Syne in the print files and videos.
-- **Key visual, logo and identity:** my own (D2, Les 9).
-- **Made with AI (Claude) and labelled as such:** the back of the invitation, the glasses designs, the 3D production of the print files, the glasses test sheets, the teaser video and its bass track, and the motion piece. Full prompt log in my portfolio.
+
