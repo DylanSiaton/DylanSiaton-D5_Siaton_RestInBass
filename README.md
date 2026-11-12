@@ -18,7 +18,9 @@
 | `1_Touchpoint/print/glasses_home_print_A4.pdf` | Same glasses sheets for home printing | Post (prototype) | 2 × A4, RGB |
 | `1_Touchpoint/invitation_front_preview.png` | Preview of the invitation front | – | PNG |
 | `1_Touchpoint/invitation_back_preview.png` | Preview of the invitation back | – | PNG |
-| `1_Touchpoint/photos/` | Photos of the printed invitation and the assembled glasses | – | JPG *(to add after printing)* |
+| `1_Touchpoint/photos/invitation_front.jpg` | Photo of the printed prototype, front | – | JPG, 2400 × 1800 px |
+| `1_Touchpoint/photos/invitation_back.jpg` | Photo of the printed prototype, back | – | JPG, 2400 × 1800 px |
+| `1_Touchpoint/photos/glasses.jpg` | The red/cyan glasses used for testing and the capture video | – | JPG, 2400 × 1800 px |
 
 The touchpoint is physical, so this folder holds its plans (the print files above) and photos of the printed prototype.
 
